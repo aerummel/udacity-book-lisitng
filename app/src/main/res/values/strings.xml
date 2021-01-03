@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="default_message">Enter a keyword search.</string>
+    <string name="no_results">No results found.</string>
+    <string name="no_connection">No internet connection.</string>
+</resources>
